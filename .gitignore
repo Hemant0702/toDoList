@@ -1,1 +1,4 @@
-node_modules, index , package , package-lock, _MACOSX, Procfile
+/node_modules
+index.html
+_MACOSX 
+Procfile
