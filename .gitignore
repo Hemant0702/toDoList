@@ -1,5 +1,1 @@
-node_modules
-index
-package
-package-lock
-_MACOSX
+node_modules, index , package , package-lock, _MACOSX, Procfile
